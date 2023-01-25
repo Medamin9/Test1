@@ -13,6 +13,7 @@ You 60 hours to deliver this challenge. To submit your work, make sure you:
 - [ ]  Make the changes for this challenge locally
 - [ ]  Commit your work whenever a task is done with a message Task X done
 - [ ]  Push your local branch
+- [ ]  Put node_modules in the .gitignore file
 
 ## Challenge
 
